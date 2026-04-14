@@ -1,0 +1,217 @@
+[
+  {
+    "author": "yuburoll",
+    "name": "PISIC keymap"
+  },
+  [
+    {
+      "ta": "\n\n#ff0000\n#00b56d\n\n\n\n#0000ff",
+      "fa": [
+        0,
+        0,
+        2,
+        2,
+        0,
+        0,
+        0,
+        2
+      ]
+    },
+    "Q\n\n 1!\nUGSw\n\n\n\nF1",
+    "W\n\n2@\nUGNxt\n\n\n\nF2",
+    "E\n\n3#\nUGSpd\n\n\n\nF3",
+    "R\n\n4$\nUGHue\n\n\n\nF4",
+    "T\n\n5%\nUGSat\n\n\n\nF5",
+    "Y\n\n 6^\nUGVal\n\n\n\nF6",
+    {
+      "x": 1,
+      "ta": "\n\n#ff0000\n\n\n\n\n#0000ff",
+      "fa": [
+        0,
+        0,
+        2,
+        0,
+        0,
+        0,
+        0,
+        2
+      ]
+    },
+    "Y\n\n7&\n\n\n\n\nF7",
+    "U\n\n8*\n\n\n\n\nF8",
+    "I\n\n 9(\n\n\n\n\nF9",
+    "O\n\n 0)\n\n\n\n\nF10",
+    "P\n\n-_ \n\n\n\n\nF11",
+    "Bspc\n\n =+\n\n\n\n\nF12"
+  ],
+  [
+    {
+      "x": 0.5,
+      "ta": "\n\n#ff0000\n#00b56d\n\n\n\n#0000ff",
+      "fa": [
+        0,
+        0,
+        2,
+        2,
+        0,
+        0,
+        0,
+        2
+      ]
+    },
+    "A\n\nTab\nBT1\n\n\n\nHome",
+    "S\n\nEsc\nBT2\n\n\n\nEnd",
+    "D\n\n`~\nBT3\n\n\n\nPgUp",
+    "F\n\n \nBTSw\n\n\n\nPgDn",
+    "G\n\n \nUnpair\n\n\n\nIns",
+    {
+      "x": 2,
+      "ta": "\n\n#ff0000",
+      "fa": [
+        0,
+        0,
+        2
+      ]
+    },
+    "H\n\n[{",
+    {
+      "ta": "\n\n#ff0000\n#00b56d\n\n\n\n#0000ff",
+      "fa": [
+        0,
+        0,
+        2,
+        2,
+        0,
+        0,
+        0,
+        2
+      ]
+    },
+    "J\n\n ]}\nBoot\n\n\n\nWh△",
+    "K\n\n△\nRbt\n\n\n\nM△",
+    {
+      "ta": "\n\n#ff0000\n\n\n\n\n#0000ff",
+      "fa": [
+        0,
+        0,
+        2,
+        0,
+        0,
+        0,
+        0,
+        2
+      ]
+    },
+    "L\n\n '\"\n\n\n\n\nWh◁",
+    "Ent\n\n ;:\n\n\n\n\nWh▷"
+  ],
+  [
+    {
+      "ta": "\n\n#ff0000\n#00b56d\n\n\n\n#0000ff",
+      "fa": [
+        0,
+        0,
+        2,
+        2,
+        0,
+        0,
+        0,
+        2
+      ]
+    },
+    "LSft\n\n◇\n◇\n\n\n\n◇",
+    {
+      "ta": "\n\n#ff0000",
+      "fa": [
+        0,
+        0,
+        2
+      ]
+    },
+    "Z\n\nCaps",
+    "X\n\n ",
+    {
+      "ta": "\n\n#ff0000\n\n\n\n\n#0000ff",
+      "fa": [
+        0,
+        0,
+        2,
+        0,
+        0,
+        0,
+        0,
+        2
+      ]
+    },
+    "C\n\n \n\n\n\n\nPScr",
+    "V\n\n \n\n\n\n\nScrL",
+    "B\n\n \n\n\n\n\nBrk",
+    {
+      "x": 1,
+      "ta": "\n\n#ff0000",
+      "fa": [
+        0,
+        0,
+        2
+      ]
+    },
+    "B\n\n /?",
+    {
+      "ta": "\n\n#ff0000\n\n\n\n\n#0000ff",
+      "fa": [
+        0,
+        0,
+        2,
+        0,
+        0,
+        0,
+        0,
+        2
+      ]
+    },
+    "N\n\n\\|\n\n\n\n\nWh▽",
+    "M\n\n◁\n\n\n\n\nM◁",
+    ",<\n\n▽\n\n\n\n\nM▽",
+    ".>\n\n▷\n\n\n\n\nM▷",
+    "/?\n\nRSft \n\nRSft\n\n\nRSft"
+  ],
+  [
+    {
+      "w": 1.25
+    },
+    "LCtl\n\n◇\n\n\n\n\n◇",
+    "LGUI\n\n◇\n\n\n\n\n◇",
+    {
+      "x": 0.5
+    },
+    "LAlt\n\n◇\n\n\n\n\n◇",
+    "Del\n\n◇\n\n\n\n\n◇",
+    {
+      "w": 1.25
+    },
+    "Spc\n\n◇\n\n\n\n\n◇",
+    {
+      "x": 1,
+      "w": 1.25
+    },
+    "Spc\n\n◇\n\n\n\n\nMBtn1",
+    "RAlt\n\n◇\n\n\n\n\nMBtn3",
+    "RCtl\n\nAlt\n\n\n\n\nMBtn2",
+    {
+      "x": 0.5,
+      "ta": "\n\n#00b56d\n\n#0000ff",
+      "a": 0,
+      "fa": [
+        0,
+        0,
+        2
+      ]
+    },
+    "App\n\nMK\n\nFn",
+    {
+      "ta": "\n\n#ff0000\n\n#ff0000",
+      "w": 1.25
+    },
+    "Del\n\n \n\nSym"
+  ]
+]
