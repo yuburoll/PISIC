@@ -140,7 +140,7 @@
     "M\n\n◁\nNum2\n\n\n\nM◁",
     ",<\n\n▽\nNum3\n\n\n\nM▽",
     ".>\n\n▷\nNum+\n\n\n\nM▷",
-    "/?\n\nRSft \nRSft\nRSft\n\n\nRSft"
+    "/?\n\nRSft\nRSft\nRSft\n\n\nRSft"
   ],
   [
     {
@@ -170,12 +170,12 @@
     "Spc\n\n◇\n\n\n\n\n◇",
     {
       "x": 1,
-      "ta": "\n\n#ff0000\n#00b56d\n#ff0000\n\n\n#0000ff",
+      "ta": "\n\n\n#00b56d\n#ff0000\n\n\n#0000ff",
       "a": 0,
       "fa": [
         0,
         0,
-        2,
+        0,
         2,
         0,
         0,
@@ -184,20 +184,29 @@
       ],
       "w": 1.25
     },
-    "Spc\n\n◇\nNum0\nSym\n\n\nMBtn1",
+    "Spc\n\n\nNum0\nSym\n\n\nMBtn1",
     {
-      "ta": "\n\n#ff0000\n#00b56d\n\n\n\n#0000ff",
+      "ta": "\n\n\n#00b56d\n\n\n\n#0000ff",
       "a": 4
     },
-    "RAlt\n\n◇\nNum,\n\n\n\nMBtn3",
-    "RCtl\n\nAlt\nNum.\n\n\n\nMBtn2",
+    "RAlt\n\n\nNum,\n\n\n\nMBtn3",
+    "RCtl\n\n\nNum.\n\n\n\nMBtn2",
     {
       "x": 0.5,
-      "ta": "\n\n\n\n#00b56d",
+      "ta": "\n\n#ff0000\n\n#00b56d\n\n\n#0000ff",
       "a": 0,
-      "fa": []
+      "fa": [
+        0,
+        0,
+        2,
+        0,
+        0,
+        0,
+        0,
+        2
+      ]
     },
-    "App\n\n\n\nPad",
+    "App\n\nBsp\n\nPad\n\n\nRAlt",
     {
       "ta": "\n\n#ff0000\n\n#0000ff",
       "fa": [
@@ -207,6 +216,6 @@
       ],
       "w": 1.25
     },
-    "Del\n\n \n\nFn"
+    "Del\n\n Del\n\nFn"
   ]
 ]

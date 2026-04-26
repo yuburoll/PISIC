@@ -79,7 +79,7 @@ keys = """
     Q               W               E               R               T               Y               Y               U               I               O               P               bspc
             A               S               D               F               G                               H               J               K               L               ent
     lsft            Z               X               C               V               B               B               N               M               comm            dot             MT(slsh,rshift)
-    lctl            lgui                            lalt            del             spc             LT(1,spc,PERM)  ralt            lctl                            LT(3,menu,PERM) LT(2,del,PERM)
+    lctl            lgui                            lalt            del             spc             LT(1,spc,PERM)  ralt            rctl                            LT(3,menu,PERM) LT(2,del,PERM)
 """
 
 [[layer]] # Layer 1
@@ -96,8 +96,8 @@ name = "fn"
 keys = """
     F1              F2              F3              F10             F4              F5              F7              F8              F9              F10             F11             F12
             home            end             pgup            pgdn            ins                            no               ms_whlu         ms_up           ms_whll         ms_whlr
-    _               no              no              pscr            scrl            brk             no              ms_whld         ms_left         ms_down         ms_right        rctl
-    _               _                               _               _               _               ms_btn1         ms_btn3         ms_btn2                         _               no
+    _               no              no              pscr            scrl            brk             no              ms_whld         ms_left         ms_down         ms_right        rsft
+    _               _                               _               _               _               ms_btn1         ms_btn3         ms_btn2                         ralt            _
 """
 
 [[layer]] # Layer 3
@@ -105,7 +105,7 @@ name = "pad"
 keys = """
     no              no              no              no              no              no              kp7             kp8             kp9             psls            past            bspc
             User0           User1           User2           User5           User6                           kp4             kp5             kp6             pmns            pent
-    _               no              no              no              no              no              num             kp1             kp2             kp3             ppls            no
+    _               no              no              no              no              no              num             kp1             kp2             kp3             ppls            rsft
     no              no                              no              no              no              kp0             pcmm            pdot                            _               no
 """
 
