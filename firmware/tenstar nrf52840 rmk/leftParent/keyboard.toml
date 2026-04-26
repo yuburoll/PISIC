@@ -65,9 +65,9 @@ matrix_map = """
 name = "base"
 keys = """
     Q               W               E               R               T               Y               Y               U               I               O               P               bspc
-            A               S               D               F               G                               H               J               K               L               scln
+            A               S               D               F               G                               H               J               K               L               ent
     lsft            Z               X               C               V               B               B               N               M               comm            dot             MT(slsh,rshift)
-    lctl            lgui                            lalt            del             spc             LT(1,ent,PERM)  ralt            lctl                            LT(2,menu,PERM) LT(1,del,PERM)
+    lctl            lgui                            lalt            del             spc             LT(1,spc,PERM)  ralt            lctl                            LT(3,menu,PERM) LT(2,del,PERM)
 """
 
 [[layer]] # Layer 1
@@ -76,7 +76,7 @@ keys = """
     1               2               3               4               5               6               7               8               9               0               mins            eql
             tab             esc             grv             no              no                              lbrc            rbrc            up               quot            scln
     _               caps            no              no              no              no              slsh            bsls            left            down            rght            rsft
-    _               _                               _               _               _               _               _               ralt                            MO(3)           _
+    _               _                               _               _               _               _               _               ralt                            bspc            del
 """
 
 [[layer]] # Layer 2
@@ -89,12 +89,12 @@ keys = """
 """
 
 [[layer]] # Layer 3
-name = "mk"
+name = "pad"
 keys = """
-    no              no              no              no              no              no              no              no              no              no              no              no
-            User0           User1           User2           User5           User6                           no              no              no              no              no
-    _               no              no              no              no              no              no              no              no              no              no              no
-    no              no                              no              no              no              no              no              no                              _               no
+    no              no              no              no              no              no              kp7             kp8             kp9             psls            past            bspc
+            User0           User1           User2           User5           User6                           kp4             kp5             kp6             pmns            pent
+    _               no              no              no              no              no              num             kp1             kp2             kp3             ppls            no
+    no              no                              no              no              no              kp0             pcmm            pdot                            _               no
 """
 
 [host]
