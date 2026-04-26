@@ -8,8 +8,8 @@
     "processor" : "RP2040",
     "usb" : {
         "device_version": "1.0.0",
-        "pid": "0x0000",
-        "vid": "0x6211"
+        "pid": "0x621c",
+        "vid": "0x2011"
     },
     "features" : {
         "bootmagic" : true,
