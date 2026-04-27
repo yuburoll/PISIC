@@ -19,6 +19,8 @@ The name PISIC means grin in korean, also is korean pun of grin layout of [ansic
 
 - 44x diodes
 
+- 46x Kailh hotswap sockets (or compatibles)
+
 - 24x M2x6 screws, flathead
 
 - 2x PJ320A 1/8(3.5mm) TRRS connector
