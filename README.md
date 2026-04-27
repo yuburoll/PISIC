@@ -49,6 +49,8 @@ there's some notices before the build:
 
 - Jump every jumpers on front side.
 
+- Assemble Case-Plate-Switch first, not Plate-Switch-PCB.
+
 ## Default Keymap
 
 ![pisicKeymap](images/pisic-keymap.png)
