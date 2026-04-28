@@ -2,7 +2,7 @@
 
 A collection of soldering advice and tips.
 
-This documents is translated by generative AI, so there can be some misleading texts.
+This documents are translated by generative AI, so there can be some misleading texts.
 
 ## Supplies
 
