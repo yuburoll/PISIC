@@ -81,12 +81,12 @@ Insert the header pins starting from 5V, align them, and solder the dev board. W
 ![pisicPhotoDevboard2](../images/pisicPhotoDevboard2.jpg)
 ![pisicPhotoDevboard3](../images/pisicPhotoDevboard3.jpg)
 
-Place the dev board with the freshly soldered header pins on top of the already-soldered hot-swap sockets. Press down firmly to ensure a snug fit.
+Place the dev board with the soldered header pins on top of the already-soldered hot-swap sockets. Press down firmly to ensure a tight fit.
 
 ![pisicPhotoDevboard4](../images/pisicPhotoDevboard4.jpg)
 ![pisicPhotoDevboard5](../images/pisicPhotoDevboard5.jpg)
 
-Just like when soldering the TRRS jack pins, bridge the header pins to the adjacent pads as if creating jumpers. Since a large amount of solder is used, there is a risk of bridging, so be sure to clean the area with alcohol after soldering.
+Just like when soldering the TRRS jack pins, bridge the header pins to the adjacent pads as if soldering jumpers. Since a large amount of solder is used, there is a risk of bridging with flux, so be sure to clean the area with alcohol after soldering.
 
 ![pisicPhotoDevboard6](../images/pisicPhotoDevboard6.jpg)
 
