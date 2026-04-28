@@ -73,9 +73,9 @@ keys = """
 [[layer]] # Layer 1
 name = "symbol"
 keys = """
-    1               2               3               4               5               6               7               8               9               0               mins            eql
-            tab             esc             grv             no              no                              lbrc            rbrc            up               quot            scln
-    _               caps            no              no              no              no              slsh            bsls            left            down            rght            rsft
+    1               2               3               4               5               6               7               8               9               0               bsls            _
+            tab             esc             grv             mins            eql                             lbrc            rbrc            up               quot            scln
+    _               caps            no              no              no              no              no              no              left            down            rght            rsft
     _               _                               _               _               _               _               _               ralt                            bspc            del
 """
 

@@ -30,8 +30,8 @@
     "U\n\n8*\nNum8\n\n\n\nF8",
     "I\n\n 9(\nNum9\n\n\n\nF9",
     "O\n\n 0)\nNum/\n\n\n\nF10",
-    "P\n\n-_ \nNum*\n\n\n\nF11",
-    "Bspc\n\n =+\n◇\n\n\n\nF12"
+    "P\n\n\\|\nNum*\n\n\n\nF11",
+    "Bspc\n\n◇\n◇\n\n\n\nF12"
   ],
   [
     {
@@ -40,8 +40,8 @@
     "A\n\nTab\nBT1\n\n\n\nHome",
     "S\n\nEsc\nBT2\n\n\n\nEnd",
     "D\n\n`~\nBT3\n\n\n\nPgUp",
-    "F\n\n \nBTSw\n\n\n\nPgDn",
-    "G\n\n \nUnpair\n\n\n\nIns",
+    "F\n\n-_\nBTSw\n\n\n\nPgDn",
+    "G\n\n=+\nUnpair\n\n\n\nIns",
     {
       "x": 2,
       "ta": "\n\n#ff0000\n#00b56d",
@@ -122,7 +122,21 @@
         2
       ]
     },
-    "B\n\n /?\nNumL",
+    "B\n\n \nNumL",
+    {
+      "ta": "\n\n\n#00b56d\n\n\n\n#0000ff",
+      "fa": [
+        0,
+        0,
+        0,
+        2,
+        0,
+        0,
+        0,
+        2
+      ]
+    },
+    "N\n\n\nNum1\n\n\n\nWh▽",
     {
       "ta": "\n\n#ff0000\n#00b56d\n\n\n\n#0000ff",
       "fa": [
@@ -136,7 +150,6 @@
         2
       ]
     },
-    "N\n\n\\|\nNum1\n\n\n\nWh▽",
     "M\n\n◁\nNum2\n\n\n\nM◁",
     ",<\n\n▽\nNum3\n\n\n\nM▽",
     ".>\n\n▷\nNum+\n\n\n\nM▷",
@@ -193,12 +206,12 @@
     "RCtl\n\n\nNum.\n\n\n\nMBtn2",
     {
       "x": 0.5,
-      "ta": "\n\n#ff0000\n\n#00b56d\n\n\n#0000ff",
+      "ta": "\n\n\n\n#00b56d\n\n\n#0000ff",
       "a": 0,
       "fa": [
         0,
         0,
-        2,
+        0,
         0,
         0,
         0,
@@ -206,7 +219,7 @@
         2
       ]
     },
-    "App\n\nBsp\n\nPad\n\n\nRAlt",
+    "App\n\n\n\nPad\n\n\nRAlt",
     {
       "ta": "\n\n#ff0000\n\n#0000ff",
       "fa": [

@@ -8,7 +8,7 @@
     "processor" : "RP2040",
     "usb" : {
         "device_version": "1.0.0",
-        "pid": "0x621c",
+        "pid": "0x621C",
         "vid": "0x2011"
     },
     "features" : {
@@ -42,7 +42,17 @@
         "led_count" : 8,
         "split" : true,
         "split_count" : [ 4, 4 ],
-        "led_map" : [ 0, 1, 5, 4, 2, 3, 7, 6 ]
+        "led_map" : [ 0, 1, 5, 4, 6, 7, 3, 2],
+        "animations" : {
+            "breathing": true,
+            "rainbow_mood": true,
+            "snake": true,
+            "rainbow_swirl": true,
+            "static_gradient": true,
+            "knight": true,
+            "twinkle": true,
+            "altering": true
+        }
     },
     "ws2812" : {
         "driver" : "vendor",
