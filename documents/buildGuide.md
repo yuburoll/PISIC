@@ -9,7 +9,7 @@ the build guide contains photo of prototype version. newest version have followi
 
 - the corner screws of fourth row are enforced, so they also have different plate design.
 
-This documents is translated by generative AI, so there can be some misleading texts.
+This documents are translated by generative AI, so there can be some misleading texts.
 
 ### Additional Resources
 [**Soldering Tips**](solderingTip.md)
