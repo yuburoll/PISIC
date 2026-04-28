@@ -3,11 +3,9 @@ this is build guide for PISIC.
 
 the build guide contains photo of prototype version. newest version have following differences:
 
-- the rims between first row and third row are 4mm wider, for easier assembly.
+- the rims between first row and third row are 4mm wider, for easier assembly. these PCB have outline silkscreen.
 
-- newest version have outline silkscreen.
-
-- the corner screws of fourth row are enforced, so they also have different plate design.
+- the corner screws of case aside fourth row are enforced, so they also have different plate design.
 
 This documents are translated by generative AI, so there can be some misleading texts.
 
