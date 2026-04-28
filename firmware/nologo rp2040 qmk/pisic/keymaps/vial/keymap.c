@@ -22,6 +22,6 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
     [3] = LAYOUT_split_656_5(
         UG_TOGG,        UG_NEXT,        UG_SPDU,        UG_HUEU,        UG_SATU,        UG_VALU,        KC_P7,          KC_P8,          KC_P9,          KC_PSLS,        KC_PAST,        KC_BSPC,
                 BT_PRF1,        BT_PRF2,        BT_PRF3,        OU_AUTO,        BT_UNPR,                        KC_P4,          KC_P5,          KC_P6,          KC_PMNS,        KC_PENT,
-        KC_TRNS,        KC_NO,          KC_NO,          KC_NO,          QK_BOOT,        QK_RBT,         KC_NO,          KC_P1,          KC_P2,          KC_P3,          KC_PPLS,        KC_RSFT,
+        KC_TRNS,        KC_NO,          KC_NO,          KC_NO,          QK_BOOT,        QK_RBT,         KC_NUM,         KC_P1,          KC_P2,          KC_P3,          KC_PPLS,        KC_RSFT,
         KC_NO,          KC_NO,                          KC_NO,          KC_NO,          KC_NO,          KC_P0,          KC_PCMM,        KC_PDOT,                        KC_TRNS,        KC_NO)
 };
