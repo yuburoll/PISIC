@@ -94,6 +94,12 @@ On the front side seen when soldering the dev board, bridge the jumpers located 
 ![pisicPhotoJumper0](../images/pisicPhotoJumper0.jpg)
 ![pisicPhotoJumper1](../images/pisicPhotoJumper1.jpg)
 
+# Check before Assembly
+a finished right side of PCB looks like following images. mirror it on the left side.
+
+![pisicPhotoPCBFinish0](../images/pisicPhotoPCBFinish0.jpg)
+![pisicPhotoPCBFinish1](../images/pisicPhotoPCBFinish1.jpg)
+
 # Assembly
 First, assemble the case, plate, and switches together. (Note: If you assemble the plate, switches, and PCB first, the assembly will not fit into the case.)
 The plate and case are fastened together with screws at four points.
