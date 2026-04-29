@@ -97,6 +97,8 @@ On the front side seen when soldering the dev board, bridge the jumpers located 
 # Check before Assembly
 a finished right side of PCB looks like following images. mirror it on the left side.
 
+the photo didn't jumped the front jumper, but you may jump there if you building wired version.
+
 ![pisicPhotoPCBFinish0](../images/pisicPhotoPCBFinish0.jpg)
 ![pisicPhotoPCBFinish1](../images/pisicPhotoPCBFinish1.jpg)
 
